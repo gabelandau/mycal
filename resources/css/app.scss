@@ -1,0 +1,23 @@
+#login-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+    .box {
+        width: 60%;
+        max-width: 700px;
+    }
+
+    .button {
+        margin-top: 15px;
+    }
+}
+
+.content {
+    padding: 5px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: #fff;
+    min-height: 500px;
+}
